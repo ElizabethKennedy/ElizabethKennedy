@@ -67,6 +67,9 @@
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ElizabethKennedy&theme=modern-lilac2&border_radius=5)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElizabethKennedy&layout=compact)](https://github.com/ElizabethKennedy/github-readme-stats)
+
+
 
 <!--
  ✨ _special_ ✨ 
