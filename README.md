@@ -62,8 +62,10 @@
 
 </div>
 
+---
 
-
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ElizabethKennedy&theme=modern-lilac2&border_radius=5)](https://git.io/streak-stats)
 
 
 <!--
