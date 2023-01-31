@@ -69,6 +69,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElizabethKennedy&layout=compact)](https://github.com/ElizabethKennedy/github-readme-stats)
 
+![ElizabethKennedy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElizabethKennedy&show_icons=true&theme=radical)
+
 
 
 <!--
