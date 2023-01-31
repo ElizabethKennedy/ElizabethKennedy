@@ -1,9 +1,27 @@
+
 ### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+
+
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/elizabeth-a-kennedy/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  </div>
+  
+  <img src="https://komarev.com/ghpvc/?username=ElizabethKennedy&style=flat-square&color=blue" alt=""/>
+
+  </div>
+
+
+
+
+
 
 <!--
-**ElizabethKennedy/ElizabethKennedy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+ ✨ _special_ ✨ 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
