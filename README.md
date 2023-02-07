@@ -29,7 +29,6 @@
   I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from California.
   
   - :telescope: I’m working as a freelance developer contributing to frontend and backend for building web applications.
-  - :dizzy: Aspiring Software Engineer and hopeful applicant of Hackbright Academy's partnership with Perficient's Bright Paths program. 
 
 - :seedling: Exploring technical content writing.
 
